@@ -75,8 +75,8 @@ class DRFBlogViewSet(ModelViewSet):
 
 class JsonApiViewSet(ModelViewSet):
     """
-    This is an example on how to configure DRF-jsonapi from
-    within a class. It allows using DRF-jsonapi alongside
+    This is an example on how to configure DRF-JSON:API from
+    within a class. It allows using DRF-JSON:API alongside
     vanilla DRF API views.
     """
 
